@@ -61,4 +61,7 @@ degrade-guard-agent/
 
 ## ライセンス
 
-（公開時に決定）
+Apache License 2.0 — [LICENSE](./LICENSE) を参照。帰属表示は [NOTICE](./NOTICE) を参照。
+Copyright 2026 Cyberdog AI Lab（株式会社サイバードッグ）。
+
+本プロジェクトは "AS IS"（現状有姿）で提供され、いかなる種類の保証もありません。
